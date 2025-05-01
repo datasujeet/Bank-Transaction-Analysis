@@ -39,6 +39,11 @@ This dashboard helps analyze and interpret banking transaction data across vario
 | ![Home](https://github.com/datasujeet/Bank-Transaction-Analysis/blob/main/home__.png) | ![Fraud Detection](https://github.com/datasujeet/Bank-Transaction-Analysis/blob/main/Fraud%20detection.png) | ![Transaction Details](https://github.com/datasujeet/Bank-Transaction-Analysis/blob/main/transaction_de.png) |
 
 ---
+## 🔍 Insights Gained
+
+- **51.9%** of transactions were **fraudulent**, requiring further review  
+- Slightly more **failed transactions** (513) compared to **successful ones** (487)  
+- Most common transaction type: **Deposit**
 
 ## 📂 Project Structure
 
